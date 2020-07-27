@@ -1,6 +1,6 @@
 # Don't track content of these folders
 node_modules/
-
+.idea/
 # references #
 ######################
 *.webloc
@@ -10,4 +10,3 @@ node_modules/
 # OS generated files #
 ######################
 .DS_Store
-.idea
